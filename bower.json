@@ -1,0 +1,7 @@
+{
+  "name": "ng-curtain",
+  "version": "0.1",
+  "devDependencies": {
+    "angular": "~1.0.6"
+  }
+}
